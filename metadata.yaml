@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41673'
     url: http://www.gutenberg.org/2009/agents/41673
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42405#Monumental-Java
 gutenberg_issued: '2013-03-24'
 gutenberg_type: Text
 identifiers:
